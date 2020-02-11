@@ -20,7 +20,9 @@ Correspon als següents blocs:
 
 ![Extreure valor](../.gitbook/assets/tinydbgetvalue.png)
 
-En _tag_, col·loquem el nom de variable local on emmagatzemar la dada. A la cadena "" introduïm el nom del _tag_.
+En _tag_, col·loquem el nom de variable local on emmagatzemar la dada. A la cadena "" introduïm el nom del _tag_. Com apunt dir que ens pot ajudar a passar dades entre pantalles \(SCREEN\).
+
+
 
 
 
