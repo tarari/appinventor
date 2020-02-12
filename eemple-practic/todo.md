@@ -1,6 +1,18 @@
 # TODO
 
-## Layout
+## Layout Screen1
+
+* [x] Crea en el nou projecte una configuració de components com la de la figura i canvia els noms dels mateixos:
+
+![Screen1](../.gitbook/assets/image.png)
+
+* [x] Entra en mode blocks i crea l'algoritme de comprovació de la contrasenya, si s'encerta, ha de canviar a la pantalla 2 \(Screen2\), si no cal que apagui l'aplicació.
+
+![Bloc de control de l&apos;acc&#xE9;s](../.gitbook/assets/image%20%281%29.png)
+
+
+
+## Layout Screen2
 
 * [x] Crea en el nou projecte una configuració de components como la de la figura, canvia el nom dels components als de la figura:
 
