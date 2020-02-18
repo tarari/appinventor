@@ -40,6 +40,10 @@ En _tag_, col·loquem el nom de variable local on emmagatzemar la dada. A la cad
 
 ![Inicialitzaci&#xF3; de llista ](../.gitbook/assets/captura-de-pantalla-2020-02-18-a-les-21.02.41.png)
 
+## Guardar element en llista 
+
+![En fer intro, s&apos;afegeix element a llista i a la base de dades](../.gitbook/assets/captura-de-pantalla-2020-02-18-a-les-21.07.04.png)
+
 
 
 
