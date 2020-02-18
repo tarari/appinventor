@@ -10,7 +10,7 @@
 
 * [Components](layout-i-components/components.md)
 
-## Eemple pràctic
+## Exemple pràctic
 
-* [TODO](eemple-practic/todo.md)
+* [TODO](exemple-practic/todo.md)
 
