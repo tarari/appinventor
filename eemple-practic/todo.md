@@ -36,5 +36,11 @@ En _tag_, col·loquem el nom de variable local on emmagatzemar la dada. A la cad
 
 
 
+## Inicialitzar pantalla screen2
+
+![Inicialitzaci&#xF3; de llista ](../.gitbook/assets/captura-de-pantalla-2020-02-18-a-les-21.02.41.png)
+
+
+
 
 
