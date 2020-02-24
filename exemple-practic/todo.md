@@ -44,6 +44,16 @@ En _tag_, col·loquem el nom de variable local on emmagatzemar la dada. A la cad
 
 ![En fer intro, s&apos;afegeix element a llista i a la base de dades](../.gitbook/assets/captura-de-pantalla-2020-02-18-a-les-21.07.04.png)
 
+### Eliminar element de la llista i la base de dades
+
+![](../.gitbook/assets/image%20%282%29.png)
+
+Si hi alguna cosa seleccionada a la llista \(index diferent de 0\), la podem eliminar de la llista i actualitzar la base de dades TinyDB i tornar la llista a estat de no seleccionat.
+
+
+
+
+
 
 
 
