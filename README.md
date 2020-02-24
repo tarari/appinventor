@@ -6,3 +6,9 @@ description: >-
 
 # Introducció
 
+Tenim al nostre abast, multitud de projectes i tutorials per on començar:
+
+Comenceu pels de nivell bàsic i anar augmentant progressivament finalitzant amb un projecte vostre.
+
+
+
