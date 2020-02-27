@@ -4,11 +4,11 @@
 
 * [x] Crea en el nou projecte una configuració de components com la de la figura i canvia els noms dels mateixos:
 
-![Screen1](../.gitbook/assets/image.png)
+![Screen1](../.gitbook/assets/image%20%281%29.png)
 
 * [x] Entra en mode blocks i crea l'algoritme de comprovació de la contrasenya, si s'encerta, ha de canviar a la pantalla 2 \(Screen2\), si no cal que apagui l'aplicació.
 
-![Bloc de control de l&apos;acc&#xE9;s](../.gitbook/assets/image%20%281%29.png)
+![Bloc de control de l&apos;acc&#xE9;s](../.gitbook/assets/image.png)
 
 
 
